@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#e8284682" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="my_tiles" tilewidth="128" tileheight="128" tilecount="4" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="../../Downloads/planetHalf.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="../../Downloads/plantPurple.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="../../Downloads/rock.png"/>
+  </tile>
+  <tile id="3">
+   <image width="128" height="128" source="../../Downloads/coinGold.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platforms" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjagHGgHcAAcQM6JkXvQAFi3YxNDbn+HQWYgFDYoocvNvnROCAdjIYjKsAVHoM9TAa7+2AAX/hSK8wBy7gAOg==
+  </data>
+ </layer>
+ <layer id="3" name="Decorations" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5gGmgHUACYEajcQEmBuz+IqRvFJAH0MManT8a7rQBo+EKAejhMJTKtMEMmHCwQYCZYeikPwCfzAAp
+  </data>
+ </layer>
+ <layer id="2" name="Coins" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAdYCFTPan6yHUHIXuo5Q5yzSElPFiwsKkdjiMRYAtDFiRMir5RQDpADueRHqbY8vhgB0PFnSCA7lZy642BBADlTwBp
+  </data>
+ </layer>
+</map>

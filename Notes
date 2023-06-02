@@ -1,0 +1,20 @@
+Character Creation:
+
+Info:
+ - Race
+ - Class
+ - Skin Color
+ - Eye Color
+ - Hair Color
+ - Hair Type
+ - Health
+
+Actions
+ - Walk
+ - Run
+ - Melee Attack
+ - Magic Attack (Depends on Class)
+ - Drink
+ - Dodge
+ - Interact with NPC's
+ - Interact with objects
